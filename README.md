@@ -31,7 +31,7 @@ BigMart POS is a Java-based point-of-sale (POS) system designed for Bigmart supe
 
 1. **Clone the repository** from GitHub.
    ```
-   git clone https://github.com/yourusername/Bigmart-POS.git
+   git clone https://github.com/sanethdassanayake/BigMart-POS.git
 3. **Import the project** into your Java IDE.
 
 4. **Set up the database**:
